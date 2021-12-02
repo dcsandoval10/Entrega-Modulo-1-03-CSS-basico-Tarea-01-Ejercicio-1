@@ -1,0 +1,17 @@
+*
+{
+    background-color: grey;
+    text-align: justify;
+}
+#titulos_tabla, tr, th
+{
+    text-align: center;
+}
+table, th, td
+{
+    table-layout: fixed;
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+    padding: 10px;
+}
